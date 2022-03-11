@@ -1,0 +1,16 @@
+.droppable-areas{
+    min-height: 50px;
+}
+
+#add-btn{
+    margin-left: -12px;
+}
+
+.message{
+    color: red;
+    margin-left: -12px;
+}
+
+.add-element-form{
+    min-height: 186px;
+}
